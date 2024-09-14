@@ -14,6 +14,12 @@ Video: TBA
 
 ## Refreshed 2do project!
 
+GitHub has a thing called projects. Project is a place for your tasks. You can add some special information to the tasks, and depending on that info, you can change the look and behavior of the task list, so that it shows tasks in a way you find comfortable and simple to understand. You can display tasks in three forms: as a table, as the vertical boards (scrolled horizontally), and as a timeline (it's called roadmap).
+
+I have only one project on GitHub, and it's common for all types of tasks. I call this project 2do. Why? There are two reasons. First of all, most obvious, it reads as "to-do". Second reason is not so obvious: quite a long time ago, I had a different nickname, 3do, so I'm using 2do as a tribute. Moreover, I've created a special file extension `.2do` for task lists – files with this extension are just Markdown files, but some programs and apps may have a special use for them (for example, a project manager may parse `.2do` files to track progress and show the list of offline/private/shareable issues). Regularly I use Windows program called Everything to filter folders containing `.2do` files instantly.
+
+So, this week, I made some improvements for 2do project, so it can be easier for you to understand the progress that is happening in real time. This time, 2do project is getting some types of tasks I didn't add before.
+
 ## YouTube posts
 
 ## Concrete plan
