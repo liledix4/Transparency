@@ -10,6 +10,8 @@ Video: TBA
 
 ## What's the deal with the Work Weeks? Why 0.5?
 
+The idea of Work Weeks was introduced in August 2024. At that moment, it was experimental, so the first week was called Work Week 0. Some problems caused to take a break and continue the work without counting Weeks, and Work Week 1 didn't happen. After that break, it was decided that before proper Work Week 1 begins, Work Week 0 will be extended. That's why there's Work Week 0.5. It's still experimental, but it addresses the problems of Week 0.
+
 ## More transparency. I'm more open now
 
 ## Refreshed 2do project!
