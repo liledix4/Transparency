@@ -1,2 +1,2 @@
-# Updates
-Text version of the Updates video series on liledix4 YouTube channel
+# Transparency
+Reports for every Work Week (see 2do)
