@@ -12,7 +12,17 @@ Video: TBA
 
 The idea of Work Weeks was introduced in August 2024. At that moment, it was experimental, so the first week was called Work Week 0. Some problems caused to take a break and continue the work without counting Weeks, and Work Week 1 didn't happen. After that break, it was decided that before proper Work Week 1 begins, Work Week 0 will be extended. That's why there's Work Week 0.5. It's still experimental, but it addresses the problems of Week 0.
 
+The reason why Work Weeks exist is simple. It makes possible to see progress over time, no matter what the project is – and weekly updates are the most optimal.
+
 ## More transparency. I'm more open now
+
+There was a huge problem for a very long time. I didn't know how to find a balance between two things: the great complexity of what I was doing, and letting people know at least how great it was. Now that I'm coming up with some helpful ideas, finding this balance is getting easier.
+
+I can't reveal many things, and in these cases I'm writing `REDACTED`, adding some gibberish letters and numbers only I can understand. 😝 But overall, now I'm telling you more than I ever did. Still a lot of secrets, but at least you see that something is cooking, every day.
+
+If there are some tasks related to your requests, and if they're secret for the public eye, you'll have no trouble understanding the sequence of all the other tasks leading to your requests. Thanks to the refreshed 2do project!
+
+Oh, and since you see the tasks and you can understand what I'm busy with, I'm responding to DMs much more actively!
 
 ## Refreshed 2do project!
 
