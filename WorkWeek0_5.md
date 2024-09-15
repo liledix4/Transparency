@@ -32,11 +32,17 @@ I have only one project on GitHub, and it's common for all types of tasks. I cal
 
 So, this week, I made some improvements for 2do project, so it can be easier for you to understand the progress that is happening in real time. This time, 2do project is getting some types of tasks I didn't add before.
 
-## YouTube posts
+## About commissions: it's more clear now
+
+I won't stop praising 2do project, okay? This is the main thing I've built everything around. So I'll sell it as much as I want. 😄
+
+Now, commissions will appear on 2do. Commission task will be `REDACTED` unless the person asks to keep things revealed.
+
+But putting 2do aside: there are more clear terms for commissions! Also, the price list! And in Work Week 1, it's planned to update YouTube Membership for new pre-orders!
+
+And I know. I know. I know. When will the commissions open again? See the next section!
 
 ## Concrete plan
-
-## About commissions: it's more clear now
 
 ## Some music plugins were in trouble
 
@@ -51,6 +57,16 @@ In case of audiovisual content (music also counts), there is some long story. Fo
 For the Work Week 1 or later, I'm planning to write some terms of use. This week, there was an unusual situation with the project called Plant Defenders, and I'm expecting more unusual things to come later, so I should make things prepared to any surprises.
 
 Also I'm creating a repository called Content-Removal, in case if some copyright holders won't like that some content is public. Guys, yes, you can use YouTube tools to remove content, but I'm offering cooperation for removing content on some other places. I can't entirely stop content from spreading if people consider it valuable (they're doing it at their own risk, it's not completely fair for me to take the whole responsibility), but removing initial source is the first step. Simply contact me, one email, and the content will be removed.
+
+## P4P!
+
+I'd like to introduce a model I call P4P. It's short for "project for project".
+
+In Week 1 or 2, you'll see what I mean. But there's no secret, I can tell about it here.
+
+For a long time, I was thinking about advertising other projects with my effort, and in exchange I'd promote something of my own. It was a thing during PvZ Road Trip.
+
+With P4P, I'd like to bring the concept to the next level. There's a new situation, I have a big project Bombs vs. Sleepwalkers. I can mention various other projects and individual authors on the BvS website, also I can provide special content for them – but I would ask others to support BvS, spread the word about it, and probably some collaborations may be possible. Ideally, this campaign should be regular, it's not one-off. And everybody wins – if BvS gets attention, it's better for other projects too from the advertisement standpoint.
 
 ## Stats
 
