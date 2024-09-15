@@ -79,6 +79,8 @@ However! Would I like to keep the channel alive? Of course and most certainly ye
 
 Add commissions to the mix, and the whole situation will become even more concerning.
 
+I think I need some reviewers who would check everything before public release, maybe it could help to solve the problem.
+
 That's all I wanted to say.
 
 ## Some music plugins were in trouble
