@@ -44,6 +44,21 @@ And I know. I know. I know. When will the commissions open again? See the next s
 
 ## Concrete plan
 
+I've created some posts on my YouTube channel's Community tab. There I addressed some issues, and I'll repeat it here.
+
+New plan sounds like this:
+
+> 1. Some preparations (boring routine stuff, don't mind it).
+> 2. BvS content release.
+> 3. Asking people to help with BvS WIP 2 while I'm preparing things for WIP 1.5. Also, asking some people to spread the word about BvS, maybe it could help – I'll give enough info to make it happen.
+> 4. Figuring out what to do with the fan content (like remixes and covers).
+> 5. Commissions! Plus figuring out how to keep the channel active with regular releases without affecting BvS content.
+> 6. We work on BvS WIP 2 🎉
+
+Now, what does everything mean? Let's find out.
+
+TBA
+
 ## Some music plugins were in trouble
 
 ## Licenses. Figured them out!
@@ -67,6 +82,8 @@ In Week 1 or 2, you'll see what I mean. But there's no secret, I can tell about 
 For a long time, I was thinking about advertising other projects with my effort, and in exchange I'd promote something of my own. It was a thing during PvZ Road Trip.
 
 With P4P, I'd like to bring the concept to the next level. There's a new situation, I have a big project Bombs vs. Sleepwalkers. I can mention various other projects and individual authors on the BvS website, also I can provide special content for them – but I would ask others to support BvS, spread the word about it, and probably some collaborations may be possible. Ideally, this campaign should be regular, it's not one-off. And everybody wins – if BvS gets attention, it's better for other projects too from the advertisement standpoint.
+
+Because BvS and my YouTube channel are two separate projects, that's where P4P works. My YT channel advertises BvS, and BvS advertises my YT channel, with special integration like "every commission and donation on my YT channel helps to improve BvS".
 
 ## F social media!
 
