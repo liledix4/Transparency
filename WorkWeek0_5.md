@@ -6,8 +6,6 @@ The easiest way to track progress without waiting for the next report dropping �
 
 However, If you prefer the weekly digest, keep reading.
 
-Video: TBA
-
 ## What's the deal with the Work Weeks? Why 0.5?
 
 The idea of Work Weeks was introduced in August 2024. At that moment, it was experimental, so the first week was called Work Week 0. Some problems caused to take a break and continue the work without counting Weeks, and Work Week 1 didn't happen. After that break, it was decided that before proper Work Week 1 begins, Work Week 0 will be extended. That's why there's Work Week 0.5. It's still experimental, but it addresses the problems of Week 0.
@@ -81,7 +79,7 @@ Now, item number 4 on the list. There is a serious problem, the content is confl
 
 Over the years, my relationship with the YouTube channel was changing. Since 2024, I don't consider it my main place for putting creative effort – instead, it's BvS, because of the multifaceted nature of content, it's not just music, it's coding, it's writing, it's design, and more-more-more. YouTube channel is restrictive: it's only music, and only specific music that works for the audience. BvS allows far more creative freedom, and I'd like to be valued for making the choice prioritizing the broader creativity.
 
-However! Would I like to keep the channel alive? Of course and most certainly yes. But I'll tell the problem itself. In this paragraph, you need to keep two points in mind: YouTube channel is just music, and BvS is my primary focus. YouTube channel has some popularity, BvS very unfortunately doesn't have and can't gain (yet). The problem is strictly about music, nothing else. BvS is a massive project and it's planned to have a huge soundtrack where I put my best ideas, you already have some glimpses of those and there'll be more of them. But, I'm known for including original ideas to the fanmade tracks for YouTube channel like remixes. How can I add the ideas to the fanmade tracks in a way that they won't interfere with the ideas for BvS? I mean, it's kinda fine to remaster or transcribe stuff without including something original – I can very easily remake Rigor Mormist from PvZ1, or Ohayou Sayori from DDLC, I'm okay with that. But if people want original bits, or if I myself want to add original bits to the fanmade stuff – that's where the problems begin.
+However! Would I like to keep the channel alive? Of course and most certainly yes. But I'll tell the problem itself. In this paragraph, you need to keep some points in mind. YouTube channel is just music, and BvS is my primary focus. YouTube channel has some popularity, BvS very unfortunately doesn't have and can't gain (yet). The problem is strictly about music, nothing else. BvS is a massive project and it's planned to have a huge soundtrack where I put my best ideas, you already have some glimpses of those and there'll be more of them. But, I'm known for including original ideas to the fanmade tracks for YouTube channel like remixes. How can I add ideas to the fanmade tracks in a way that they won't interfere with the ideas for BvS? I mean, it's kinda fine to remaster or transcribe stuff without including something original – I can very easily remake Rigor Mormist from PvZ1, or Ohayou Sayori from DDLC, I'm okay with that. But if people want original bits, or if I myself want to add original bits to the fanmade stuff – that's where the problems begin.
 
 Add commissions to the mix, and the whole situation will become even more concerning.
 
