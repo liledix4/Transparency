@@ -57,7 +57,29 @@ New plan sounds like this:
 
 Now, what does everything mean? Let's find out.
 
-TBA
+Preparations. I'm reporting about them in this Transparency repository.
+
+BvS content release. I'm doing something big and serious. Upcoming content consists of 4 parts: script, music, video, and website. Progress can be tracked on 2do project.
+
+BvS has development stages. Every stage is called WIP ("work in progress"), and every WIP has a number. Before going to the next stage, a ton of work is being done. Starting from October 2023, the development stage was WIP 1 for several months. Various situations happened during WIP 1 (that is now retrospectively called WIP 1.0), and starting from July 2024, the work on WIP 1.5 has begun, laying the groundwork for WIP 2 that is planned for October-November 2024. So:
+
+- WIP 1.0: October 2023 – July 2024
+- WIP 1.5: July-October 2024
+- WIP 2: planned to start in October or November 2024
+
+As a part of the process of moving to WIP 2, it's planned to ask some people to help with the project – but before it happens, I need to finish my introduction content that is a part of WIP 1.5.
+
+Another change that happened to BvS is that Violet Velvet Vivacity (team behind the project PvZ World Tour in 2020, now canceled) is no longer the main parent of this project – instead, BvS is being developed by BvS Team and independent contributors (in case if Violet Velvet Vivacity revives, it can contribute to BvS independently too).
+
+Now, item number 4 on the list. There is a serious problem, the content is conflicting between BvS and YouTube channel. This problem was existing for months. I want to have a serious discussion with everyone and hear all opinions. But there's more: this problem is serious to the point that I'm questioning commissions.
+
+Over the years, my relationship with the YouTube channel was changing. Since 2024, I don't consider it my main place for putting creative effort – instead, it's BvS, because of the multifaceted nature of content, it's not just music, it's coding, it's writing, it's design, and more-more-more. YouTube channel is restrictive: it's only music, and only specific music that works for the audience. BvS allows far more creative freedom, and I'd like to be valued for making the choice prioritizing the broader creativity.
+
+However! Would I like to keep the channel alive? Of course and most certainly yes. But I'll tell the problem itself. In this paragraph, you need to keep two points in mind: YouTube channel is just music, and BvS is my primary focus. YouTube channel has some popularity, BvS very unfortunately doesn't have and can't gain (yet). The problem is strictly about music, nothing else. BvS is a massive project and it's planned to have a huge soundtrack where I put my best ideas, you already have some glimpses of those and there'll be more of them. But, I'm known for including original ideas to the fanmade tracks for YouTube channel like remixes. How can I add the ideas to the fanmade tracks in a way that they won't interfere with the ideas for BvS? I mean, it's kinda fine to remaster or transcribe stuff without including something original – I can very easily remake Rigor Mormist from PvZ1, or Ohayou Sayori from DDLC, I'm okay with that. But if people want original bits, or if I myself want to add original bits to the fanmade stuff – that's where the problems begin.
+
+Add commissions to the mix, and the whole situation will become even more concerning.
+
+That's all I wanted to say.
 
 ## Some music plugins were in trouble
 
