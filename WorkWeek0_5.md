@@ -68,6 +68,14 @@ For a long time, I was thinking about advertising other projects with my effort,
 
 With P4P, I'd like to bring the concept to the next level. There's a new situation, I have a big project Bombs vs. Sleepwalkers. I can mention various other projects and individual authors on the BvS website, also I can provide special content for them – but I would ask others to support BvS, spread the word about it, and probably some collaborations may be possible. Ideally, this campaign should be regular, it's not one-off. And everybody wins – if BvS gets attention, it's better for other projects too from the advertisement standpoint.
 
+## F social media!
+
+In my new repository HowTo, you may find some pieces of code that help to remove likes on Twitter, YouTube, and so on.
+
+So, I used those pieces of code to remove all likes and subscriptions from Twitter, GitHub, Reddit and YouTube (kept subscriptions there). It took some effort (1800+ likes on Twitter, now gone), but I did it.
+
+The thing that motivated me to write that stuff on HowTo is: my frustration with the social media. I hate the concept of likes, subscriptions and saving content online – mainly because **companies and corporations don't give you the tools for managing that data however YOU need**. You don't own your likes, you can't automate them, you can't extract specific liked posts based on your criteria. Social media forces you to add a like and **forget about it**, so that they could tune the algorithms better for you – but that's a piece of your personal data you give to the corporation, they can do with it whatever they want, up to building a profile about you specifically so the advertisers (and potentially hackers) would feel happier. They *can* automate your likes, but you *can't*. What's the point of liking things in this case, if the links can be saved locally? (the thing I'm achieving with the project called Bookmarker) That's where my truly favorite stuff really should belong – my own PC, I own those likes, I can automate them however I want, and I don't see anything potentially valuable lost because of that. And if something unfortunate happens to the service, at least I'll have the descriptions of what I saved, for nostalgic purposes probably. In a long term, you don't know why you need likes and subscriptions, you lose the purpose – if the algorithm stops showing the channel you subscribed to, that subscription you have means nothing, and you won't even remember it.
+
 ## Stats
 
 These numbers are the sum of the values across all projects – including those not publicly available.
