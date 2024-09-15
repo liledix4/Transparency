@@ -12,6 +12,8 @@ The easiest way to track progress without waiting for the next report dropping â
 
 However, If you prefer the weekly digest, keep reading.
 
+[Private list of all closed issues for this week](https://github.com/issues?q=is:issue+author:liledix4+is:closed+updated:{{YYYY-MM-DD}}..{{YYYY-MM-DD}})
+
 ## Stats
 
 These numbers are the sum of the values across all projects â€“ including those not publicly available.
