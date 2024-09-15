@@ -22,7 +22,7 @@ I can't reveal many things, and in these cases I'm writing `REDACTED`, adding so
 
 If there are some tasks related to your requests, and if they're secret for the public eye, you'll have no trouble understanding the sequence of all the other tasks leading to your requests. Thanks to the refreshed 2do project!
 
-Oh, and since you see the tasks and you can understand what I'm busy with, I'm responding to DMs much more actively!
+Oh, and since you can see what I'm busy with, I'm responding to DMs much more actively!
 
 ## Refreshed 2do project!
 
