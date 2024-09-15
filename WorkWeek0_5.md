@@ -30,6 +30,10 @@ I have only one project on GitHub, and it's common for all types of tasks. I cal
 
 So, this week, I made some improvements for 2do project, so it can be easier for you to understand the progress that is happening in real time. This time, 2do project is getting some types of tasks I didn't add before.
 
+There are two permanent links for 2do project:
+- https://liledix4.github.io/2do
+- https://github.com/users/liledix4/projects/15
+
 ## Refreshed GitHub account
 
 Many unneeded repositories have been deleted, many other repositories have been changed/merged/migrated, and a number of new repositories have been created.
@@ -87,11 +91,19 @@ I think I need some reviewers who would check everything before public release, 
 
 That's all I wanted to say.
 
+- TBA
+    - [ ] https://www.youtube.com/post/UgkxAOKSupu2tsV3uWhzISaC3jmJksntvgpb
+    - [ ] https://www.youtube.com/post/UgkxQ-l-Ck7tLA1YYuBeognl0DMJC0HrPiPl
+
 ## Some music plugins were in trouble
+
+- TBA
+    - [ ] https://github.com/liledix4/MusicProduction/issues/4
+    - [ ] https://github.com/liledix4/GeneralMaintenance/issues/15
 
 ## Licenses. Figured them out!
 
-There's a new public repository, LICENSE – you can check it out!
+There's a new public repository, [LICENSE](https://github.com/liledix4/LICENSE) – you can check it out!
 
 Licenses were an ongoing concern since the beginning of WIP 1.0 of Bombs vs. Sleepwalkers project. However, it took me just two days to choose three most suitable licenses for the open-source code among countless variants – and in my opinion, the choice is pretty good.
 
@@ -115,11 +127,15 @@ Because BvS and my YouTube channel are two separate projects, that's where P4P w
 
 ## F social media!
 
-In my new repository HowTo, you may find some pieces of code that help to remove likes on Twitter, YouTube, and so on.
+In my new repository [HowTo](https://github.com/liledix4/HowTo), you may find some pieces of code that help to remove likes on Twitter, YouTube, and so on.
 
 So, I used those pieces of code to remove all likes and subscriptions from Twitter, GitHub, Reddit and YouTube (kept subscriptions there). It took some effort (1800+ likes on Twitter, now gone), but I did it.
 
 The thing that motivated me to write that stuff on HowTo is: my frustration with the social media. I hate the concept of likes, subscriptions and saving content online – mainly because **companies and corporations don't give you the tools for managing that data however YOU need**. You don't own your likes, you can't automate them, you can't extract specific liked posts based on your criteria. Social media forces you to add a like and **forget about it**, so that they could tune the algorithms better for you – but that's a piece of your personal data you give to the corporation, they can do with it whatever they want, up to building a profile about you specifically so the advertisers (and potentially hackers) would feel happier. They *can* automate your likes, but you *can't*. What's the point of liking things in this case, if the links can be saved locally? (the thing I'm achieving with the project called Bookmarker) That's where my truly favorite stuff really should belong – my own PC, I own those likes, I can automate them however I want, and I don't see anything potentially valuable lost because of that. And if something unfortunate happens to the service, at least I'll have the descriptions of what I saved, for nostalgic purposes probably. In a long term, you don't know why you need likes and subscriptions, you lose the purpose – if the algorithm stops showing the channel you subscribed to, that subscription you have means nothing, and you won't even remember it.
+
+## Video format was planned for Transparency reports – but this idea was quickly scrapped
+
+- [ ] TBA: https://www.youtube.com/post/UgkxcI_-rSqXc3xPhdEIkYWglRevcL3IeX6B
 
 ## Stats
 
