@@ -32,6 +32,12 @@ I have only one project on GitHub, and it's common for all types of tasks. I cal
 
 So, this week, I made some improvements for 2do project, so it can be easier for you to understand the progress that is happening in real time. This time, 2do project is getting some types of tasks I didn't add before.
 
+## Refreshed GitHub account
+
+Many unneeded repositories have been deleted, many other repositories have been changed/merged/migrated, and a number of new repositories have been created.
+
+And the changes are still ongoing! I have many projects on my computer that could become public repositories eventually, and it takes time to review them all. Ideally, I'd love **EVERY** project of mine to be available via GitHub, privately or publicly. Because sharing is caring!
+
 ## About commissions: it's more clear now
 
 I won't stop praising 2do project, okay? This is the main thing I've built everything around. So I'll sell it as much as I want. 😄
