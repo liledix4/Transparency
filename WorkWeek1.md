@@ -8,6 +8,28 @@ However, If you prefer the weekly digest, keep reading.
 
 [Private list of all closed issues for this week](https://github.com/issues?q=is:issue+author:liledix4+is:closed+updated:2024-09-16..2024-09-22)
 
+## What's going on with DDLC New Heading? (the mod for Doki Doki Literature Club!)
+
+Well, revival!
+
+Listen to this snippet of the brand new soundtrack! Personally, it's amazing and I love it very much.
+
+![](https://youtu.be/hsOEmf1KiP4)
+
+Well. The idea of reviving New Heading is not new. I had it in my mind for years! However, this mod won't be revived yet. First of all, I need to know if enough people are interested in it – it's not BvS, I can't revive this project solely with my wish.
+
+1. My offer: this mod can happen! Thoughts?
+2. Waiting for feedback.
+3. If there's not enough feedback, I'll try a few other ways to draw attention.
+4. If people would love DDLC:NH to be released, then good! If not, well, tough luck, seems like.
+
+New DDLC:NH is planned for 2025.
+
+## New side projects
+
+- [Config](https://github.com/liledix4/Config) – settings and configurations of various programs and apps, shared with love and caring!
+- [WebEdits](https://github.com/liledix4/WebEdits) – visual modifications of websites, for the convenience.
+
 ## Stats
 
 These numbers are the sum of the values across all projects – including those not publicly available.
