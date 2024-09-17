@@ -14,9 +14,7 @@ Well, revival!
 
 Listen to this snippet of the brand new soundtrack! Personally, it's amazing and I love it very much.
 
-![](https://youtu.be/hsOEmf1KiP4)
-
-[![](https://img.youtube.com/vi/hsOEmf1KiP4/0.jpg)](https://www.youtube.com/watch?v=hsOEmf1KiP4)
+[![](https://img.youtube.com/vi/hsOEmf1KiP4/maxresdefault.jpg)](https://www.youtube.com/watch?v=hsOEmf1KiP4)
 
 Well. The idea of reviving New Heading is not new. I had it in my mind for years! However, this mod won't be revived yet. First of all, I need to know if enough people are interested in it – it's not BvS, I can't revive this project solely with my wish.
 
