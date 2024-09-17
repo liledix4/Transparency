@@ -25,6 +25,8 @@ Well. The idea of reviving New Heading is not new. I had it in my mind for years
 
 New DDLC:NH is planned for 2025.
 
+Additionally, new DDLC:NH will start as the open-source project! [See this repository.](https://github.com/lilFM/DDLCNH) lilFM is my secondary place on GitHub where I upload strictly fanmade content, to keep the main GitHub account clean and to make repositories more collab-friendly.
+
 ## New side projects
 
 - [Config](https://github.com/liledix4/Config) – settings and configurations for various programs and apps, shared with love and caring!
