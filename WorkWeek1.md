@@ -27,7 +27,7 @@ New DDLC:NH is planned for 2025.
 
 ## New side projects
 
-- [Config](https://github.com/liledix4/Config) – settings and configurations of various programs and apps, shared with love and caring!
+- [Config](https://github.com/liledix4/Config) – settings and configurations for various programs and apps, shared with love and caring!
 - [WebEdits](https://github.com/liledix4/WebEdits) – visual modifications of websites, for the convenience.
 
 ## Stats
