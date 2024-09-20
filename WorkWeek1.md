@@ -27,10 +27,27 @@ New DDLC:NH is planned for 2025.
 
 Additionally, new DDLC:NH will start as the open-source project! [See this repository.](https://github.com/lilFM/DDLCNH) lilFM is my secondary place on GitHub where I upload strictly fanmade content, to keep the main GitHub account clean and to make repositories more collab-friendly.
 
-## New side projects
+## Massive change on my PC
 
-- [Config](https://github.com/liledix4/Config) – settings and configurations for various programs and apps, shared with love and caring!
-- [WebEdits](https://github.com/liledix4/WebEdits) – visual modifications of websites, for the convenience.
+This Work Week isn't fruitful in terms of public content. But you can't say that I did nothing, right? 🙃
+
+I'm preparing my PC for a rapid fire of releases! As a part of the Transparency project, I've connected EVERY folder on my Desktop to the GitHub repositories! Every single folder now has the corresponding repository, which means that the previously private content will become public eventually!
+
+Compared to the music, it's not that interesting, but you need to know what I'm invested in.
+
+It takes time to adapt every project to the public release, so Work Week 2 will be busy, and I'm not sure if updates will be shown on 2do project.
+
+## Plenty of new repositories
+
+Related to the previous segment of this document. You may notice in my GitHub account that I've created many repositories at once. If I start mentioning them here, it'll be a long list. If you're interested, you can see for yourself. Repositories are empty, because I've created them to connect local folders on my PC for eventual uploads.
+
+## My private Bookmarker database is updated massively
+
+It's not interesting for you at all. But I should mention it. Because I've spent a lot of time to do it.
+
+Bookmarker is my planned note-taking application that respects privacy. Database normally consists of the Markdown files, each with a single list of URLs, tags and notes.
+
+There's no working app yet, but I'm already preparing my saved data for proper parsing. I saved dozens of thousands of URLs, and all of them need to be reordered manually before trusting the automated process. Manual process is not finished yet, but this week I've made a massive work already.
 
 ## Stats
 
